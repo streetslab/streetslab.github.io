@@ -1,7 +1,3 @@
-```{eval-rst}
-:hero: We are a lab in the bioengineering department at UC Berkeley.
-```
-
 # People
 
 ## Lab Members
@@ -44,7 +40,6 @@ Graduate Student, Bioengineering
 
 :::::
 
-
 ## Alumni
 
 :::::{grid} 2 3 3 3
@@ -59,7 +54,6 @@ Graduate Student, Biophysics
 
 ::::
 
-
 ::::{grid-item}
 
 :::{card} Annie Maslan
@@ -69,6 +63,5 @@ Graduate Student, Bioengineering
 :::
 
 ::::
-
 
 :::::

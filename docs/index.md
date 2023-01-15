@@ -9,15 +9,15 @@
 
 ::::{grid-item}
 
-:::{card}
+:::{card} We use tools from mathematics, physics, and engineering to study biology.
 :img-background: images/chip.jpg
 :class-card: sd-text-white
 :text-align: center
-<h2><b>We use tools from mathematics, physics, and engineering to study biology.</b></h2>
 :::
 
 ::::
 
+:::::
 
 ```{toctree}
 :hidden:
@@ -25,4 +25,5 @@
 people
 research
 publications
+contact
 ```

@@ -1,0 +1,25 @@
+[tool.isort]
+include_trailing_comma = true
+multi_line_output = 3
+profile = "black"
+skip_glob = ["docs/*", "scvi/__init__.py"]
+
+[tool.black]
+target-version = ['py38']
+include = '\.pyi?$'
+exclude = '''
+(
+  /(
+      \.eggs
+    | \.git
+    | \.hg
+    | \.mypy_cache
+    | \.tox
+    | \.venv
+    | _build
+    | buck-out
+    | build
+    | dist
+  )/
+)
+'''

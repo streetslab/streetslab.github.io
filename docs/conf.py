@@ -37,6 +37,10 @@ html_title = "Streets Lab"
 html_logo = None
 html_theme_options = {
     "repo_name": "Streets Lab",
+    "font": {
+        "text": "Source Sans Pro",  # any google font
+        "code": "Roboto Mono",  # used for literal code blocks
+    },
     "palette": [
         {
             "media": "(prefers-color-scheme: light)",
@@ -45,7 +49,7 @@ html_theme_options = {
             "toggle": {
                 "icon": "material/lightbulb-outline",
                 "name": "Switch to dark mode",
-            }
+            },
         },
         {
             "media": "(prefers-color-scheme: dark)",
@@ -54,7 +58,7 @@ html_theme_options = {
             "toggle": {
                 "icon": "material/lightbulb",
                 "name": "Switch to light mode",
-            }
+            },
         },
     ],
     "globaltoc_collapse": True,
@@ -72,6 +76,9 @@ html_theme_options = {
 html_css_files = [
     "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
 ]
+html_static_path = ["_static"]
+html_css_files = ["css/override.css"]
+html_show_sphinx = False
 
 # -- Options for Autodoc --------------------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#configuration
