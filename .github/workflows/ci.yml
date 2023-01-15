@@ -28,7 +28,7 @@ jobs:
       - name: Install Python dependencies
         run: |
           pip install -r requirements.txt
-      - run: sphinx-build -b dirhtml -v . _build
+      - run: sphinx-build -b dirhtml -v ./docs _build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
