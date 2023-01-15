@@ -1,0 +1,6 @@
+sphinx
+lutra
+myst-parser
+sphinx-design
+sphinx-autobuild
+sphinx-immaterial
