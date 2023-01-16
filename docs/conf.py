@@ -35,6 +35,7 @@ myst_enable_extensions = [
 html_theme = "sphinx_immaterial"
 html_title = "Streets Lab"
 html_logo = None
+html_favicon = "images/favicon.ico"
 html_theme_options = {
     "repo_name": "Streets Lab",
     "font": {
