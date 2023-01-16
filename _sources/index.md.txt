@@ -26,4 +26,5 @@ people
 research
 publications
 contact
+tools/index
 ```
