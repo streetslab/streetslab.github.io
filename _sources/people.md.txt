@@ -19,7 +19,7 @@ Principal Investigator
 ::::{grid-item}
 
 :::{card} Martin Witte
-:img-top: images/martin_witte.jpeg
+:img-top: images/martin_witte.png
 
 Lab Manager
 :::
