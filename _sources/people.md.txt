@@ -254,4 +254,74 @@ Undergraduate Student, Bioengineering
 
 ::::
 
+::::{grid-item}
+
+:::{card} Shilin Chen
+:img-top: images/shilin_chen.jpeg
+
+Masters of Engineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Wayne Wu
+:img-top: images/wayne_wu.jpeg
+
+Masters of Engineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Nathan Bentolila
+:img-top: images/nathan_bentolila.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Irene Kim
+:img-top: images/irene_kim.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Tim Vernon
+:img-top: images/tim_vernon.jpeg
+
+Masters of Engineering, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Jerry Shih
+:img-top: images/jerry_shih.jpeg
+
+Masters of Engineering, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Jonathan White
+:img-top: images/jonathan_white.jpeg
+
+Research Specialist
+:::
+
+::::
+
 :::::
