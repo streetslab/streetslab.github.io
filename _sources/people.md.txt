@@ -90,8 +90,8 @@ Undergraduate Student, Bioengineering
 
 ::::{grid-item}
 
-:::{card} Sophia Lundqvist
-:img-top: images/sophia_lundqvist.jpeg
+:::{card} Sofia Lundqvist
+:img-top: images/sofia_lundqvist.jpeg
 
 Undergraduate Student, Bioengineering
 :::
