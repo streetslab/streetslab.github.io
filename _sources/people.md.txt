@@ -38,6 +38,66 @@ Graduate Student, Bioengineering
 
 ::::
 
+::::{grid-item}
+
+:::{card} Ryan Keivanfar
+:img-top: images/ryan_keivanfar.jpeg
+
+Graduate Student, Computational Biology
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Boden Eakins
+:img-top: images/boden_eakins.jpeg
+
+Graduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Jeremy Marcus
+:img-top: images/jeremy_marcus.jpeg
+
+Graduate Student, Computational Biology
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Denise Robles
+:img-top: images/denise_robles.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Reet Mishra
+:img-top: images/reet_mishra.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Sophia Lundqvist
+:img-top: images/sophia_lundqvist.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
 :::::
 
 ## Alumni
