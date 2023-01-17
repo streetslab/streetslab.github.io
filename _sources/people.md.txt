@@ -146,6 +146,16 @@ Visiting Scholar, Ningbo University
 
 ::::{grid-item}
 
+:::{card} Kim de Luca
+:img-top: images/kim_de_luca.jpeg
+
+Visiting Scholar
+:::
+
+::::
+
+::::{grid-item}
+
 :::{card} Anushka Gupta
 :img-top: images/anushka_gupta.jpeg
 
