@@ -18,6 +18,16 @@ Principal Investigator
 
 ::::{grid-item}
 
+:::{card} Martin Witte
+:img-top: images/martin_witte.jpeg
+
+Lab Manager
+:::
+
+::::
+
+::::{grid-item}
+
 :::{card} Adam Gayoso
 :img-top: images/adam_gayoso.jpeg
 
