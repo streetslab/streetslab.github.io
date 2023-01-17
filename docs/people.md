@@ -2,7 +2,8 @@
 
 ## Lab Members
 
-:::::{grid} 2 2 3 3
+:::::{grid} 2 2 2 2
+:gutter: 1
 
 ::::{grid-item}
 
@@ -12,16 +13,6 @@
 Principal Investigator
 +++
 [{material-regular}`school;1.2em`](https://scholar.google.com/citations?user=0EsT6kUAAAAJ&hl=en)
-:::
-
-::::
-
-::::{grid-item}
-
-:::{card} Martin Witte
-:img-top: images/martin_witte.png
-
-Lab Manager
 :::
 
 ::::
@@ -108,11 +99,22 @@ Undergraduate Student, Bioengineering
 
 ::::
 
+::::{grid-item}
+
+:::{card} Martin Witte
+:img-top: images/martin_witte.png
+
+Lab Manager
+:::
+
+::::
+
 :::::
 
 ## Alumni
 
 :::::{grid} 2 3 3 3
+:gutter: 1
 
 ::::{grid-item}
 
