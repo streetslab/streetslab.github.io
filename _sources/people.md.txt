@@ -134,4 +134,124 @@ Graduate Student, Bioengineering
 
 ::::
 
+::::{grid-item}
+
+:::{card} Soohong Kim
+:img-top: images/soohong_kim.jpeg
+
+Visiting Scholar, Ningbo University
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Anushka Gupta
+:img-top: images/anushka_gupta.jpeg
+
+Graduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Zoë Steier
+:img-top: images/zoe_steier.jpeg
+
+Graduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Nicolas Altemose
+:img-top: images/nicolas_altemose.jpeg
+
+Graduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Carolina Rios-Martinez
+:img-top: images/carolina_rios_martinez.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Jianhua Lim
+:img-top: images/jianhua_lim.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Alexander Orimoloye
+:img-top: images/alexander_orimoloye.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Claris Garzon
+:img-top: images/claris_garzon.jpeg
+
+Administrative Assistant
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Xinyi Zhang
+:img-top: images/xinyi_zhang.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Mansi Zalavadia
+:img-top: images/mansi_zalavadia.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Tyler Chen
+:img-top: images/tyler_chen.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
+::::{grid-item}
+
+:::{card} Andre Lai
+:img-top: images/andre_lai.jpeg
+
+Undergraduate Student, Bioengineering
+:::
+
+::::
+
 :::::
